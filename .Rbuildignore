@@ -18,3 +18,7 @@
 ^\.github$
 ^tests/run_ciftiTools_tests\.R$
 ^inst/extdata/MNI152_T1_2mm\.nii\.gz$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
